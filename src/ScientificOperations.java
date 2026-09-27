@@ -8,4 +8,7 @@ public class ScientificOperations {
     public double exponentielle(double val) {
         return Math.exp(val);
     }
+    public double valeurAbsolue(double val) {
+        return Math.abs(val);
+    }
 }
