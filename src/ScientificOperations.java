@@ -11,4 +11,7 @@ public class ScientificOperations {
     public double valeurAbsolue(double val) {
         return Math.abs(val);
     }
+    public double racineCubique(double val) {
+        return Math.cbrt(val);
+    }
 }
