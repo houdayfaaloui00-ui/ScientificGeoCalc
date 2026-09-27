@@ -5,4 +5,7 @@ public class ScientificOperations {
         }
         return Math.log(val);
     }
+    public double exponentielle(double val) {
+        return Math.exp(val);
+    }
 }
